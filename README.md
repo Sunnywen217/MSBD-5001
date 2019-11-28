@@ -4,4 +4,4 @@ datetime, warnings, sklearn and xgboost.
 How to run it: 
   Open "Mr.LastOne.ipynb", run the cell one by one to the end of the file.
 
-The result is in "Xgboost.csv"
+The result is in "Xgboost final result.csv"
