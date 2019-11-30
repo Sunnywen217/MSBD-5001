@@ -7,4 +7,4 @@ How to run it:
 
 The first result is in "Xgboost final result.csv"
 
-The second result is in "ANN FinalResult.csv"
+The second result is in "FinalResult.csv"
